@@ -30,6 +30,7 @@
 
 ## Official Resources
 
+- [Official Nova Website](https://novasystems-dev.github.io) — Official web portal & quickstart installer.
 - [Nova Core Repository](https://github.com/novasystems-dev/nova) — Core compiler and standard library.
 - [Orbit](https://github.com/novasystems-dev/orbit) — Official package manager and build system.
 - [Nova-Analyzer](https://github.com/novasystems-dev/nova-analyzer) — Official Language Server Protocol engine.
