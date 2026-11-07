@@ -7,7 +7,7 @@
 <br />
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-[![Nova](https://img.shields.io/badge/language-Nova_0.3.0-38bdf8?style=flat&labelColor=0f172a&logo=rust&logoColor=white)](https://github.com/novasystems-dev/nova)
+[![Nova](https://img.shields.io/badge/language-Nova_0.3.0-38bdf8?style=flat&labelColor=0f172a&logo=starship&logoColor=white)](https://github.com/novasystems-dev/nova)
 [![License](https://img.shields.io/badge/license-CC0_1.0-a855f7?style=flat&labelColor=0f172a&logo=creative-commons&logoColor=white)](LICENSE)
 [![Ecosystem](https://img.shields.io/badge/ecosystem-10%20repos-f59e0b?style=flat&labelColor=0f172a&logo=github&logoColor=white)](https://github.com/novasystems-dev)
 
